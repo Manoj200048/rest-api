@@ -9,6 +9,6 @@ public class Owner {
         this.firstName = firstName;
     }
     public Owner() {
-        
+
     }
 }

@@ -24,7 +24,7 @@ public class EmployeeController {
 
         es.create(addEmployeeRequest);
 
-        System.out.println("Employee added")
+        System.out.println("Employee added");
 
     }
 
