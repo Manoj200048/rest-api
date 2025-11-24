@@ -8,4 +8,7 @@ public class Owner {
         this.id = id;
         this.firstName = firstName;
     }
+    public Owner() {
+        
+    }
 }
